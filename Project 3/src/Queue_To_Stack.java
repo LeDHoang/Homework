@@ -60,7 +60,7 @@ public class Queue_To_Stack {
         System.out.println(s.top());
         s.pop();
         System.out.println(s.top());
-
+//
     }
 }
 
