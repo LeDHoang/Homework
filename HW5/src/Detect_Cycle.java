@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-
+//Directed graph detect cycle
 class Detect_Cycle {
 
     private final int V;
